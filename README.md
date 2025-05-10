@@ -43,6 +43,7 @@ cd qBitMagnet
 1. Ensure **Web UI** is enabled in qBittorrent settings.
 2. Note the **Web UI URL** (e.g., `https://192.168.100.10:8080`).
 3. Set a **username** and **password** if authentication is required.
+4. Go to **Options** **>** **Web UI** **>** **Security** **>** uncheck **Enable Cross-Site Request Forgery (CSRF) protection** (see Future Improvements).
 
 ### Set Up the Extension:
 
