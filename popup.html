@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Настройки qBittorrent</title>
+</head>
+
+<body>
+    <h3>Настройки qBittorrent Web UI</h3>
+    <p>Текущий URL: <span id="currentUrl">Не задан</span></p>
+    <p>Текущий логин: <span id="currentUser">Не задан</span></p>
+    <p>Текущий пароль: <span id="currentPass">Не задан</span></p>
+    <label>URL (например, http://192.168.1.42:8080): <input id="qbUrl" /></label><br>
+    <label>Логин: <input id="qbUser" /></label><br>
+    <label>Пароль: <input id="qbPass" type="password" /></label><br>
+    <button id="save">Сохранить</button>
+    <p id="status"></p>
+
+    <script src="popup.js"></script>
+</body>
+
+</html>
