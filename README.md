@@ -88,5 +88,5 @@ Feel free to submit issues or pull requests on GitHub. Contributions are welcome
 
 ## Credits
 
-Me + 4 liters of beer + couple AI adjustments
+Me + 4 liters of beer + couple AI adjustments.
 Icon found on the internet.
