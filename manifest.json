@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Magnet Catcher",
+    "name": "qBitMagnet",
     "description": "Sends magnet links to qBittorrent Web UI for downloading.",
     "version": "1.0",
     "permissions": [
